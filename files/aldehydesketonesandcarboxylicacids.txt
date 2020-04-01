@@ -1,0 +1,124 @@
+
+What is meant by the following terms ? Give an example of the reaction in
+each case.
+(i) Cyanohydrin 
+(ii) Acetal 
+(iii) Semicarbazone
+(iv) Aldol 
+(v) Hemiacetal 
+(vi) Oxime
+(vii) Ketal 
+(vii) Imine 
+(ix) 2,4-DNP-derivative
+(x) Schiff's base
+
+Name the following compounds according to IUPAC system of nomenclature:
+(i) CH3CH(CH3)CH2CH2CHO 
+(ii) CH3CH2COCH(C2H5)CH2CH2Cl
+(iii) CH3CH=CHCHO 
+(iv) CH3COCH2COCH3
+(v) CH3CH(CH3)CH2C(CH3)2COCH3 
+(vi) (CH3)3CCH2COOH
+(vii) OHCC6H4CHO-p
+
+Draw the structures of the following compounds.
+(i) 3-Methylbutanal 
+(ii) p-Nitropropiophenone
+(iii) p-Methylbenzaldehyde 
+(iv) 4-Methylpent-3-en-2-one
+(v) 4-Chloropentan-2-one 
+(vi) 3-Bromo-4-phenylpentanoic acid
+(vii) p,p'-Dihydroxybenzophenone 
+(viii) Hex-2-en-4-ynoic acid
+
+Write the IUPAC names of the following ketones and aldehydes. Wherever possible, give also common names.
+(i) CH3CO(CH2)4CH3
+(ii) CH3CH2CHBrCH2CH(CH3)CHO
+(iii) CH3(CH2)5CHO 
+(iv) Ph-CH=CH-CHO
+(v)CHO
+(vi) PhCOPh
+
+Draw structures of the following derivatives.
+(i) The 2,4-dinitrophenylhydrazone of benzaldehyde
+(ii) Cyclopropanone oxime
+(iii) Acetaldehydedimethylacetal
+(iv) The semicarbazone of cyclobutanone
+(v) The ethylene ketal of hexan-3-one
+(vi) The methyl hemiacetal of formaldehyde
+
+Predict the products formed when cyclohexanecarbaldehyde reacts with following reagents.
+(i) PhMgBr and then H3O+
+(ii) Tollens' reagent
+(iii) Semicarbazide and weak acid 
+(iv) Excess ethanol and acid
+(v) Zinc amalgam and dilute hydrochloric acid
+
+Which of the following compounds would undergo aldol condensation, which the Cannizzaro reaction and which neither? Write the structures of the expected products of aldol condensation and Cannizzaro reaction.
+(i) Methanal 
+(ii) 2-Methylpentanal 
+(iii) Benzaldehyde
+(iv) Benzophenone 
+(v) Cyclohexanone 
+(vi) 1-Phenylpropanone
+(vii) Phenylacetaldehyde 
+(viii) Butan-1-ol 
+(ix) 2,2-Dimethylbutanal
+
+How will you convert ethanal into the following compounds?
+(i) Butane-1,3-diol 
+(ii) But-2-enal 
+(iii) But-2-enoic acid
+
+Write structural formulas and names of four possible aldol condensation products from propanal and butanal. In each case, indicate which aldehyde acts as nucleophile and which as electrophile.
+
+An organic compound with the molecular formula C9H10O forms 2,4-DNP derivative, reduces Tollens' reagent and undergoes Cannizzaro reaction. On vigorous oxidation, it gives 1,2-benzenedicarboxylic acid. Identify the compound.
+
+An organic compound (A) (molecular formula C8H16O2) was hydrolysed with dilute sulphuric acid to give a carboxylic acid (B) and an alcohol (C). Oxidation of (C) with chromic acid produced (B). (C) on dehydration gives but-1-ene. Write equations for the reactions involved.
+
+Arrange the following compounds in increasing order of their property as indicated:
+(i) Acetaldehyde, Acetone, Di-tert-butyl ketone, Methyl tert-butyl ketone (reactivity towards HCN)
+(ii) CH3CH2CH(Br)COOH, CH3CH(Br)CH2COOH, (CH3)2CHCOOH, CH3CH2CH2COOH (acid strength)
+(iii) Benzoic acid, 4-Nitrobenzoic acid, 3,4-Dinitrobenzoic acid, 4-Methoxybenzoic acid (acid strength)
+
+Give simple chemical tests to distinguish between the following pairs of compounds.
+(i) Propanal and Propanone 
+(ii) Acetophenone and Benzophenone
+(iii) Phenol and Benzoic acid 
+(iv) Benzoic acid and Ethyl benzoate
+(v) Pentan-2-one and Pentan-3-one 
+(vi) Benzaldehyde and Acetophenone
+(vii) Ethanal and Propanal
+
+How will you prepare the following compounds from benzene? You may use any inorganic reagent and any organic reagent having not more than one carbon atom
+(i) Methyl benzoate 
+(ii) m-Nitrobenzoic acid
+(iii) p-Nitrobenzoic acid 
+(iv) Phenylacetic acid
+(v) p-Nitrobenzaldehyde.
+
+How will you bring about the following conversions in not more than two steps?
+(i) Propanone to Propene 
+(ii) Benzoic acid to Benzaldehyde
+(iii) Ethanol to 3-Hydroxybutanal 
+(iv) Benzene to m-Nitroacetophenone
+(v) Benzaldehyde to Benzophenone 
+(vi) Bromobenzene to 1-Phenylethanol
+(vii) Benzaldehyde to 3-Phenylpropan-1-ol
+(viii) Benazaldehyde to alpha-Hydroxyphenylacetic acid
+(ix) Benzoic acid to m- Nitrobenzyl alcohol
+
+Describe the following:
+(i) Acetylation 
+(ii) Cannizzaro reaction
+(iii) Cross aldol condensation 
+(iv) Decarboxylation
+
+Give plausible explanation for each of the following:
+(i) Cyclohexanone forms cyanohydrin in good yield but 2,2,6-trimethylcyclohexanone does not.
+(ii) There are two -NH2 groups in semicarbazide. However, only one is involved in the formation of semicarbazones.
+(iii) During the preparation of esters from a carboxylic acid and an alcohol in the presence of an acid catalyst, the water or the ester should be removed as soon as it is formed.
+
+An organic compound contains 69.77% carbon, 11.63% hydrogen and rest oxygen. The molecular mass of the compound is 86. It does not reduce Tollens' reagent but forms an addition compound with sodium hydrogensulphite and give positive iodoform test. On vigorous oxidation it gives ethanoic and propanoic acid. Write the possible structure of the compound.
+
+Although phenoxide ion has more number of resonating structures than carboxylate ion, carboxylic acid is a stronger acid than phenol. Why?

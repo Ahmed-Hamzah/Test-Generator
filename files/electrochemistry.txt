@@ -1,0 +1,66 @@
+
+Arrange the following metals in the order in which they displace each other from the solution of their salts.
+Al, Cu, Fe, Mg and Zn.
+
+Given the standard electrode potentials, K+/K = -2.93V, Ag+/Ag = 0.80V, Hg2+/Hg = 0.79V, Mg2+/Mg = -2.37 V, Cr3+/Cr = - 0.74V, arrange these metals in their increasing order of reducing power.
+
+Depict the galvanic cell in which the reaction
+Zn(s) + 2Ag+ (aq) -> Zn2+(aq) + 2Ag(s) takes place. 
+Further show:
+(i) Which of the electrode is negatively charged?
+(ii) The carriers of the current in the cell.
+(iii) Individual reaction at each electrode.
+
+Calculate the standard cell potentials of galvanic cell in which the following
+reactions take place:
+(i) 2Cr(s) + 3Cd2+(aq) -> 2Cr3+(aq) + 3Cd
+(ii) Fe2+(aq) + Ag+(aq) -> Fe3+(aq) + Ag(s)
+Calculate the standard Gibbs energy and equilibrium constant of the reactions.
+
+Write the Nernst equation and emf of the following cells at 298 K:
+(i) Mg(s)|Mg2+(0.001M)||Cu2+(0.0001 M)|Cu(s)
+(ii) Fe(s)|Fe2+(0.001M)||H+(1M)|H2(g)(1bar)| Pt(s)
+(iii) Sn(s)|Sn2+(0.050 M)||H+(0.020 M)|H2(g) (1 bar)|Pt(s)
+(iv) Pt(s)|Br-(0.010 M)|Br2(l)||H+(0.030 M)| H2(g) (1 bar)|Pt(s).
+
+In the button cells widely used in watches and other devices the following reaction takes place:
+Zn(s) + Ag2O(s) + H2O(l) -> Zn2+(aq) + 2Ag(s) + 2OH-(aq)
+Determine the standard Gibbs energy and equilibrium constant for the reaction.
+
+Define conductivity and molar conductivity for the solution of an electrolyte. Discuss their variation with concentration.
+
+The conductivity of 0.20 M solution of KCl at 298 K is 0.0248 S cm-1. Calculate its molar conductivity.
+
+The resistance of a conductivity cell containing 0.001M KCl solution at 298 K is 1500 ohm. What is the cell constant if conductivity of 0.001M KCl solution at 298 K is 0.146 x 10-3 S cm-1.
+
+Conductivity of 0.00241 M acetic acid is 7.896 x 10-5 S cm-1. Calculate its molar conductivity. If  /\m for acetic acid is 390.5 S cm^2 mol^-1, what is its dissociation constant?
+
+How much charge is required for the following reductions:
+(i) 1 mol of Al3+ to Al?
+(ii) 1 mol of Cu2+ to Cu?
+(iii) 1 mol of MnO4- to Mn2+?
+
+How much electricity in terms of Faraday is required to produce
+(i) 20.0 g of Ca from molten CaCl2?
+(ii) 40.0 g of Al from molten Al2O3?
+
+How much electricity is required in coulomb for the oxidation of
+(i) 1 mol of H2O to O2?
+(ii) 1 mol of FeO to Fe2O3?
+
+A solution of Ni(NO3)2 is electrolysed between platinum electrodes using a current of 5 amperes for 20 minutes. What mass of Ni is deposited at the cathode?
+
+Three electrolytic cells A,B,C containing solutions of ZnSO4, AgNO3 and CuSO4,respectively are connected in series. A steady current of 1.5 amperes was passed through them until 1.45 g of silver deposited at the cathode of cell B. How long did the current flow? What mass of copper and zinc were deposited?
+
+Using the standard electrode potentials given in Table 3.1, predict if the reaction between the following is feasible:
+(i) Fe3+(aq) and I-(aq)
+(ii) Ag+ (aq) and Cu(s)
+(iii) Fe3+ (aq) and Br- (aq)
+(iv) Ag(s) and Fe 3+ (aq)
+(v) Br2 (aq) and Fe2+ (aq).
+
+Predict the products of electrolysis in each of the following:
+(i) An aqueous solution of AgNO3 with silver electrodes.
+(ii) An aqueous solution of AgNO3 with platinum electrodes.
+(iii) A dilute solution of H2SO4 with platinum electrodes.
+(iv) An aqueous solution of CuCl2 with platinum electrodes.

@@ -1,0 +1,132 @@
+
+Name the following halides according to IUPAC system and classify them as
+alkyl, allyl, benzyl (primary, secondary, tertiary), vinyl or aryl halides:
+(i) (CH3)2CHCH(Cl)CH3
+(ii) CH3CH2CH(CH3)CH(C2H5)Cl
+(iii) CH3CH2C(CH3)2CH2I 
+(iv) (CH3)3CCH2CH(Br)C6H5
+(v) CH3CH(CH3)CH(Br)CH3
+(vi) CH3C(C2H5)2CH2Br
+(vii) CH3C(Cl)(C2H5)CH2CH3
+(viii) CH3CH=C(Cl)CH2CH(CH3)2
+(ix) CH3CH=CHC(Br)(CH3)2
+(x) p-ClC6H4CH2CH(CH3)2
+(xi) m-ClCH2C6H4CH2C(CH3)3
+(xii) o-Br-C6H4CH(CH3)CH2CH3
+
+Give the IUPAC names of the following compounds:
+(i) CH3CH(Cl)CH(Br)CH3
+(ii) CHF2CBrClF 
+(iii) ClCH2C≡CCH2Br
+(iv) (CCl3)3CCl 
+(v) CH3C(p-ClC6H4)2CH(Br)CH3
+(vi) (CH3)3CCH=CClC6H4I-p
+
+Write the structures of the following organic halogen compounds.
+(i) 2-Chloro-3-methylpentane 
+(ii) p-Bromochlorobenzene
+(iii) 1-Chloro-4-ethylcyclohexane 
+(iv) 2-(2-Chlorophenyl)-1-iodooctane
+(v) 2-Bromobutane 
+(vi) 4-tert-Butyl-3-iodoheptane
+(vii) 1-Bromo-4-sec-butyl-2-methylbenzene 
+(viii) 1,4-Dibromobut-2-ene
+
+Which one of the following has the highest dipole moment?
+(i) CH2Cl2 
+(ii) CHCl3
+(iii) CCl4
+
+A hydrocarbon C5H10 does not react with chlorine in dark but gives a single monochloro compound C5H9Cl in bright sunlight. Identify the hydrocarbon.
+
+Write the isomers of the compound having formula C4H9Br
+
+Write the equations for the preparation of 1-iodobutane from
+(i) 1-butanol (ii) 1-chlorobutane (iii) but-1-ene.
+
+What are ambident nucleophiles? Explain with an example
+
+Which compound in each of the following pairs will react faster in SN2 reaction with -OH?
+(i) CH3Br or CH3I 
+(ii) (CH3)3CCl or CH3Cl
+
+Predict all the alkenes that would be formed by dehydrohalogenation of the following halides with sodium ethoxide in ethanol and identify the major alkene:
+(i) 1-Bromo-1-methylcyclohexane 
+(ii) 2-Chloro-2-methylbutane
+(iii) 2,2,3-Trimethyl-3-bromopentane.
+
+How will you bring about the following conversions?
+(i) Ethanol to but-1-yne 
+(ii) Ethane to bromoethene 
+(iii) Propene to 1-nitropropane 
+(iv) Toluene to benzyl alcohol 
+(v) Propene to propyne
+(vi) Ethanol to ethyl fluoride 
+(vii) Bromomethane to propanone 
+(viii) But-1-ene to but-2-ene 
+(ix) 1-Chlorobutane to n-octane 
+(x) Benzene to biphenyl.
+
+Explain why
+(i) the dipole moment of chlorobenzene is lower than that of cyclohexyl chloride?
+(ii) alkyl halides, though polar, are immiscible with water?
+(iii) Grignard reagents should be prepared under anhydrous conditions?
+
+Give the uses of freon 12, DDT, carbon tetrachloride and iodoform
+
+Write the structure of the major organic product in each of the following reactions:
+(i) CH3CH2CH2Cl + NaI + (acetone + heat) ->
+(ii) (CH3)3CBr + KOH + (ethanol + heat) ->
+(iii) CH3CH(Br)CH2CH3 + NaOH + (water) ->
+(iv) CH3CH2Br + KCN + (aq. ethanol) ->
+(v) C6H5ONa + C2H5Cl ->
+(vi) CH3CH2CH2OH + SOCl2 ->
+(vii) CH3CH2CH = CH2 + HBr + (peroxide) ->
+(viii) CH3CH = C(CH3)2 + HBr -> 
+
+Write the mechanism of the following reaction:
+nBuBr + KCN  + (EtOH - H2O) -> nBuCN
+
+Arrange the compounds of each set in order of reactivity towards SN2
+displacement:
+(i) 2-Bromo-2-methylbutane, 1-Bromopentane, 2-Bromopentane
+(ii) 1-Bromo-3-methylbutane, 2-Bromo-2-methylbutane, 2-Bromo-3-methylbutane
+(iii) 1-Bromobutane, 1-Bromo-2,2-dimethylpropane, 1-Bromo-2-methylbutane, 1-Bromo-3-methylbutane.
+
+Out of C6H5CH2Cl and C6H5CHClC6H5 , which is more easily hydrolysed by aqueous KOH
+
+p-Dichlorobenzene has higher m.p. than those of o- and m-isomers. Discuss
+
+How the following conversions can be carried out?
+(i) Propene to propan-1-ol
+(ii) Ethanol to but-1-yne
+(iii) 1-Bromopropane to 2-bromopropane
+(iv) Toluene to benzyl alcohol
+(v) Benzene to 4-bromonitrobenzene
+(vi) Benzyl alcohol to 2-phenylethanoic acid
+(vii) Ethanol to propanenitrile
+(viii) Aniline to chlorobenzene
+(ix) 2-Chlorobutane to 3, 4-dimethylhexane
+(x) 2-Methyl-1-propene to 2-chloro-2-methylpropane
+(xi) Ethyl chloride to propanoic acid
+(xii) But-1-ene to n-butyliodide
+(xiii) 2-Chloropropane to 1-propanol
+(xiv) Isopropyl alcohol to iodoform
+(xv) Chlorobenzene to p-nitrophenol
+(xvi) 2-Bromopropane to 1-bromopropane
+(xvii) Chloroethane to butane
+(xviii) Benzene to diphenyl
+(xix) tert-Butyl bromide to isobutyl bromide
+(xx) Aniline to phenylisocyanide
+
+The treatment of alkyl chlorides with aqueous KOH leads to the formation of alcohols but in the presence of alcoholic KOH, alkenes are major products. Explain.
+
+Primary alkyl halide C4H9Br (a) reacted with alcoholic KOH to give compound (b). Compound (b) is reacted with HBr to give (c) which is an isomer of (a). When (a) is reacted with sodium metal it gives compound (d), C8H18 which is different from the compound formed when n-butyl bromide is reacted with sodium. Give the structural formula of (a) and write the equations for all the reactions
+
+What happens when
+(i) n-butyl chloride is treated with alcoholic KOH,
+(ii) bromobenzene is treated with Mg in the presence of dry ether,
+(iii) chlorobenzene is subjected to hydrolysis,
+(iv) ethyl chloride is treated with aqueous KOH,
+(v) methyl bromide is treated with sodium in the presence of dry ether,
+(vi) methyl chloride is treated with KCN?

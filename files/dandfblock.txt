@@ -1,0 +1,109 @@
+
+Write down the electronic configuration of:
+(i) Cr3+ (iii) Cu+
+(v) Co2+ (vii) Mn2+
+(ii) Pm3+ (iv) Ce4+ (vi) Lu2+ (viii) Th4+
+
+Why are Mn2+ compounds more stable than Fe2+ towards oxidation to their +3 state?
+
+Explain briefly how +2 state becomes more and more stable in the first half of the first row transition elements with increasing atomic number?
+
+To what extent do the electronic configurations decide the stability of oxidation states in the first series of the transition elements? Illustrate your answer with examples.
+
+What may be the stable oxidation state of the transition element with the following d electron configurations in the ground state of their atoms : 3d3, 3d5, 3d8 and 3d4?
+
+Name the oxometal anions of the first series of the transition metals in which the metal exhibits the oxidation state equal to its group number.
+
+What is lanthanoid contraction? What are the consequences of lanthanoid contraction?
+
+What are the characteristics of the transition elements and why are they called transition elements? Which of the d-block elements may not be regarded as the transition elements?
+
+In what way is the electronic configuration of the transition elements different from that of the non transition elements?
+
+What are the different oxidation states exhibited by the lanthanoids?
+
+Explain giving reasons:
+(i) Transition metals and many of their compounds show paramagnetic behaviour.
+(ii) The enthalpies of atomisation of the transition metals are high.
+(iii) The transition metals generally form coloured compounds.
+(iv) Transition metals and their many compounds act as good catalyst.
+
+What are interstitial compounds? Why are such compounds well known for transition metals?
+
+How is the variability in oxidation states of transition metals different from that of the non transition metals? Illustrate with examples.
+
+Describe the preparation of potassium dichromate from iron chromite ore. What is the effect of increasing pH on a solution of potassium dichromate?
+
+Describe the oxidising action of potassium dichromate and write the ionic equations for its reaction with:
+(i) iodide (ii) iron(II) solution and (iii) H2S
+
+Describe the preparation of potassium permanganate. How does the acidified permanganate solution react with (i) iron(II) ions (ii) SO2 and (iii) oxalic acid? Write the ionic equations for the reactions.
+
+For M2+/M and M3+/M2+ systems the E0  values for some metals are as follows:
+Cr2+/Cr : -0.9V 
+Cr3/Cr2+ : -0.4 V
+Mn2+/Mn  : -1.2V
+Mn3+/Mn2+ : +1.5 V
+Fe2+/Fe : -0.4V
+Fe3+/Fe2+ : +0.8 V
+Use this data to comment upon:
+(i) the stability of Fe3+ in acid solution as compared to that of Cr3+ or Mn3+ and
+(ii) the ease with which iron can be oxidised as compared to a similar process for either chromium or manganese metal.
+
+Predict which of the following will be coloured in aqueous solution? Ti3+, V3+, Cu+ , Sc3+, Mn2+, Fe3+ and Co2+. Give reasons for each.
+
+Compare the stability of +2 oxidation state for the elements of the first transition series.
+
+Compare the chemistry of actinoids with that of the lanthanoids with special reference to:
+(i) electronic configuration (iii) oxidation state
+(ii) atomic and ionic sizes and (iv) chemical reactivity.
+
+How would you account for the following:
+(i) Of the d4 species, Cr2+ is strongly reducing while manganese(III) is strongly oxidising.
+(ii) Cobalt(II) is stable in aqueous solution but in the presence of complexing reagents it is easily oxidised.
+(iii) The d1 configuration is very unstable in ions.
+
+What is meant by ‘disproportionation'? Give two examples of disproportionation reaction in aqueous solution.
+
+Which metal in the first series of transition metals exhibits +1 oxidation state most frequently and why?
+
+Calculate the number of unpaired electrons in the following gaseous ions: Mn3+,Cr3+, V3+ and Ti3+. Which one of these is the most stable in aqueous solution?
+
+Give examples and suggest reasons for the following features of the transition metal chemistry:
+(i) The lowest oxide of transition metal is basic, the highest is amphoteric/acidic.
+(ii) A transition metal exhibits highest oxidation state in oxides and fluorides.
+(iii) The highest oxidation state is exhibited in oxoanions of a metal.
+
+Indicate the steps in the preparation of: 
+(i) K2Cr2O7 from chromite ore. 
+(ii) KMnO4 from pyrolusite ore.
+
+What are alloys? Name an important alloy which contains some of the lanthanoid metals. Mention its uses.
+
+What are inner transition elements? Decide which of the following atomic numbers are the atomic numbers of the inner transition elements : 29, 59, 74, 95, 102, 104.
+
+The chemistry of the actinoid elements is not so smooth as that of the lanthanoids. Justify this statement by giving some examples from the oxidation state of these elements.
+
+Which is the last element in the series of the actinoids? Write the electronic configuration of this element. Comment on the possible oxidation state of this element.
+
+Use Hund's rule to derive the electronic configuration of Ce3+ ion, and calculate its magnetic moment on the basis of ‘spin-only' formula.
+
+Name the members of the lanthanoid series which exhibit +4 oxidation states and those which exhibit +2 oxidation states. Try to correlate this type of behaviour with the electronic configurations of these elements.
+
+Compare the chemistry of the actinoids with that of lanthanoids with reference to:
+(i) electronic configuration (ii) oxidation states and (iii) chemical reactivity.
+
+Write the electronic configurations of the elements with the atomic numbers 61, 91, 101, and 109.
+
+Compare the general characteristics of the first series of the transition metals with those of the second and third series metals in the respective vertical columns. Give special emphasis on the following points:
+(i) electronic configurations (ii) oxidation states (iii) ionisation enthalpies and (iv) atomic sizes.
+
+Write down the number of 3d electrons in each of the following ions: Ti2+, V2+, Cr3+, Mn2+, Fe2+, Fe3+, Co2+, Ni2+ and Cu2+. Indicate how would you expect the five 3d orbitals to be occupied for these hydrated ions (octahedral).
+
+Comment on the statement that elements of the first transition series possess many properties different from those of heavier transition elements.
+
+What can be inferred from the magnetic moment values of the following complex species ?
+Example             Magnetic Moment (BM)
+K4[Mn(CN)6)               2.2
+[Fe(H2O)6]2+              5.3
+K2[MnCl4]                 5.9

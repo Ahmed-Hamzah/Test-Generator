@@ -1,0 +1,59 @@
+
+Copper can be extracted by hydrometallurgy but not zinc. Explain.
+
+What is the role of depressant in froth floatation process?
+
+Why is the extraction of copper from pyrites more difficult than that from its oxide ore through reduction?
+
+Explain: 
+(i) Zone refining 
+(ii) Column chromatography.
+
+Out of C and CO, which is a better reducing agent at 673 K ?
+
+Name the common elements present in the anode mud in electrolytic refining of copper. Why are they so present ?
+
+Write down the reactions taking place in different zones in the blast furnace during the extraction of iron.
+
+Write chemical reactions taking place in the extraction of zinc from zinc blende.
+
+State the role of silica in the metallurgy of copper.
+
+Which method of refining may be more suitable if element is obtained in minute quantity?
+
+Which method of refining will you suggest for an element in which impurities present have chemical properties close to the properties of that elements?
+
+Describe a method for refining nickel.
+
+How can you separate alumina from silica in a bauxite ore associated with silica? Give equations, if any.
+
+Giving examples, differentiate between 'roasting' and 'calcination'.
+
+How is 'cast iron' different from 'pig iron'?
+
+Differentiate between 'minerals' and 'ores'.
+
+Why copper matte is put in silica lined converter?
+
+What is the role of cryolite in the metallurgy of aluminium?
+
+How is leaching carried out in case of low grade copper ores?
+
+Why is zinc not extracted from zinc oxide through reduction using CO?
+
+The value of standard Gibbs energy for formation of Cr2O3 is -540 kJ mol^-1 and that of Al2O3 is -827 kJ mol^-1. Is the reduction of Cr2O3  possible with Al ?
+
+Out of C and CO, which is a better reducing agent for ZnO ?
+
+The choice of a reducing agent in a particular case depends on thermodynamic factor. How far do you agree with this statement? Support your opinion with two examples.
+
+Name the processes from which chlorine is obtained as a by-product. What will happen if an aqueous solution of NaCl is subjected to electrolysis?
+
+What is the role of graphite rod in the electrometallurgy of aluminium?
+
+Outline the principles of refining of metals by the following methods:
+(i) Zone refining
+(ii) Electrolytic refining
+(iii) Vapour phase refining
+
+Predict conditions under which Al might be expected to reduce MgO

@@ -1,0 +1,90 @@
+
+Define the term solution. How many types of solutions are formed? Write briefly about each type with an example.
+
+Give an example of a solid solution in which the solute is a gas
+
+Define the following terms:
+(i) Mole fraction (ii) Molality (iii) Molarity (iv) Mass percentage.
+
+Concentrated nitric acid used in laboratory work is 68% nitric acid by mass in aqueous solution. What should be the molarity of such a sample of the acid if the density of the solution is 1.504 g mL-1?
+
+A solution of glucose in water is labelled as 10% w/w, what would be the molality and mole fraction of each component in the solution? If the density of solution is 1.2 g mL-1, then what shall be the molarity of the solution?
+
+How many mL of 0.1 M HCl are required to react completely with 1 g mixture of Na2CO3 and NaHCO3 containing equimolar amounts of both?
+
+A solution is obtained by mixing 300 g of 25% solution and 400 g of 40% solution by mass. Calculate the mass percentage of the resulting solution.
+
+An antifreeze solution is prepared from 222.6 g of ethylene glycol (C2H6O2) and 200 g of water. Calculate the molality of the solution. If the density of the solution is 1.072 g mL-1, then what shall be the molarity of the solution?
+
+A sample of drinking water was found to be severely contaminated with chloroform (CHCl3) supposed to be a carcinogen. The level of contamination was 15 ppm (by mass):
+(i) express this in percent by mass
+(ii) determine the molality of chloroform in the water sample.
+
+What role does the molecular interaction play in a solution of alcohol and water?
+
+Why do gases always tend to be less soluble in liquids as the temperature is raised?
+
+State Henry's law and mention some important applications.
+
+The partial pressure of ethane over a solution containing 6.56 x 10^-3 g of ethane is 1 bar. If the solution contains 5.00 x 10^-2 g of ethane, then what shall be the partial pressure of the gas?
+
+What is meant by positive and negative deviations from Raoult's law and how is the sign of ∆mix H related to positive and negative deviations from Raoult's law?
+
+An aqueous solution of 2% non-volatile solute exerts a pressure of 1.004 bar at the normal boiling point of the solvent. What is the molar mass of the solute?
+
+Heptane and octane form an ideal solution. At 373 K, the vapour pressures of the two liquid components are 105.2 kPa and 46.8 kPa respectively. What will be the vapour pressure of a mixture of 26.0 g of heptane and 35 g of octane?
+
+The vapour pressure of water is 12.3 kPa at 300 K. Calculate vapour pressure of 1 molal solution of a non-volatile solute in it.
+
+Calculate the mass of a non-volatile solute (molar mass 40 g/mol) which should be dissolved in 114 g octane to reduce its vapour pressure to 80%.
+
+A solution containing 30 g of non-volatile solute exactly in 90 g of water has a vapour pressure of 2.8 kPa at 298 K. Further, 18 g of water is then added to the solution and the new vapour pressure becomes 2.9 kPa at 298 K. Calculate:
+(i) molar mass of the solute (ii) vapour pressure of water at 298 K
+
+A 5% solution (by mass) of cane sugar in water has freezing point of 271K. Calculate the freezing point of 5% glucose in water if freezing point of pure water is 273.15 K.
+
+Two elements A and B form compounds having formula AB2  and AB4. When dissolved in 20 g of benzene (C6H6), 1 g of AB2 lowers the freezing point by 2.3 K whereas 1.0 g of AB4 lowers it by 1.3 K. The molar depression constant for benzene is 5.1 K kg mol-1. Calculate atomic masses of A and B.
+
+At 300 K, 36 g of glucose present in a litre of its solution has an osmotic pressure of 4.98 bar. If the osmotic pressure of the solution is 1.52 bars at the same temperature, what would be its concentration?
+
+Suggest the most important type of intermolecular attractive interaction in the following pairs.
+(i) n-hexane and n-octane
+(ii) I2 and CCl4
+(iii) NaClO4 and water
+(iv) methanol and acetone
+(v) acetonitrile (CH3CN) and acetone (C3H6O).
+
+Based on solute-solvent interactions, arrange the following in order of increasing solubility in n-octane and explain. Cyclohexane, KCl, CH3OH, CH3CN.
+
+Amongst the following compounds, identify which are insoluble, partially soluble and highly soluble in water?
+(i) phenol (ii) toluene (iii) formic acid (iv) ethylene glycol (v) chloroform (vi) pentanol.
+
+If the density of some lake water is 1.25g m/L and contains 92 g of Na+ ions per kg of water, calculate the molality of Na+ ions in the lake.
+
+If the solubility product of CuS is 6 x 10^-16, calculate the maximum molarity of CuS in aqueous solution. 
+
+Calculate the mass percentage of aspirin (C9H8O4) in acetonitrile (CH3CN) when 6.5 g of C9H8O4 is dissolved in 450 g of CH3CN.
+
+Nalorphene (C19H21NO3), similar to morphine, is used to combat withdrawal symptoms in narcotic users. Dose of nalorphene generally given is 1.5 mg. Calculate the mass of 1.5 - 10-3 m aqueous solution required for the above dose.
+
+Calculate the amount of benzoic acid (C6H5COOH) required for preparing 250 mL of 0.15 M solution in methanol.
+
+The depression in freezing point of water observed for the same amount of acetic acid, trichloroacetic acid and trifluoroacetic acid increases in the order given above. Explain briefly.
+
+Calculate the depression in the freezing point of water when 10 g of CH3CH2CHClCOOH is added to 250 g of water. Ka  = 1.4 x 10^-3, Kf = 1.86K kg/mol.
+
+19.5 g of CH2 FCOOH is dissolved in 500 g of water. The depression in the freezing point of water observed is 1 degree C.
+
+Vapour pressure of water at 293 K is 17.535 mm Hg. Calculate the vapour pressure of water at 293 K when 25 g of glucose is dissolved in 450 g of water.
+
+Henry's law constant for the molality of methane in benzene at 298 K is 4.27 x 10^5 mm Hg. Calculate the solubility of methane in benzene at 298 K under 760 mm Hg.
+
+100 g of liquid A (molar mass 140 g/mol) was dissolved in 1000 g of liquid B (molar mass 180 g/mol). The vapour pressure of pure liquid B was found to be 500 torr. Calculate the vapour pressure of pure liquid A and its vapour pressure in the solution if the total vapour pressure of the solution is 475 Torr.
+
+Benzene and toluene form ideal solution over the entire range of composition. The vapour pressure of pure benzene and toluene at 300 K are 50.71 mm Hg and 32.06 mm Hg respectively. Calculate the mole fraction of benzene in vapour phase if 80 g of benzene is mixed with 100 g of toluene.
+
+The air is a mixture of a number of gases. The major components are oxygen and nitrogen with approximate proportion of 20% is to 79% by volume at 298 K. The water is in equilibrium with air at a pressure of 10 atm. At 298 K if the Henry's law constants for oxygen and nitrogen at 298 K are 3.30 x 10^7 mm and 6.51 x 10^7 mm respectively, calculate the composition of these gases in water.
+
+Determine the amount of CaCl2  (i = 2.47) dissolved in 2.5 litre of water such that its osmotic pressure is 0.75 atm at 27 degree C.
+
+Determine the osmotic pressure of a solution prepared by dissolving 25 mg of K2SO4 in 2 litre of water at 25 degrees C, assuming that it is completely dissociated.

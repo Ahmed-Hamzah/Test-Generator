@@ -1,0 +1,103 @@
+
+Write structures of the compounds whose IUPAC names are as follows:
+(i) 2-Methylbutan-2-ol 
+(ii) 1-Phenylpropan-2-ol
+(iii) 3,5-Dimethylhexane -1, 3, 5-triol 
+(iv) 2,3 - Diethylphenol
+(v) 1 - Ethoxypropane 
+(vi) 2-Ethoxy-3-methylpentane
+(vii) Cyclohexylmethanol 
+(viii) 3-Cyclohexylpentan-3-ol
+(ix) Cyclopent-3-en-1-ol 
+(x) 4-Chloro-3-ethylbutan-1-ol
+
+(i) Draw the structures of all isomeric alcohols of molecular formula C5H12O and give their IUPAC names.
+(ii) Classify the isomers of alcohols in question 11.3 (i) as primary, secondary and tertiary alcohols.
+
+Explain why propanol has higher boiling point than that of the hydrocarbon, butane?
+
+Alcohols are comparatively more soluble in water than hydrocarbons of comparable molecular masses. Explain this fact.
+
+What is meant by hydroboration-oxidation reaction? Illustrate it with an example
+
+Give the structures and IUPAC names of monohydric phenols of molecular formula, C7H8O.
+
+While separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam volatile. Give reason.
+
+Give the equations of reactions for the preparation of phenol from cumene.
+
+Write chemical reaction for the preparation of phenol from chlorobenzene.
+
+Write the mechanism of hydration of ethene to yield ethanol.
+
+You are given benzene, conc. H2SO4 and NaOH. Write the equations for the preparation of phenol using these reagents.
+
+Show how will you synthesise:
+(i) 1-phenylethanol from a suitable alkene.
+(ii) cyclohexylmethanol using an alkyl halide by an SN2 reaction.
+(iii) pentan-1-ol using a suitable alkyl halide?
+
+Give two reactions that show the acidic nature of phenol. Compare acidity of phenol with that of ethanol.
+
+Explain why is ortho nitrophenol more acidic than ortho methoxyphenol?
+
+Explain how does the -OH group attached to a carbon of benzene ring activate it towards electrophilic substitution?
+
+Give equations of the following reactions:
+(i) Oxidation of propan-1-ol with alkaline KMnO4 solution.
+(ii) Bromine in CS2 with phenol.
+(iii) Dilute HNO3 with phenol.
+(iv) Treating phenol wih chloroform in presence of aqueous NaOH.
+
+Explain the following with an example.
+(i) Kolbe's reaction.
+(ii) Reimer-Tiemann reaction.
+(iii) Williamson ether synthesis.
+(iv) Unsymmetrical ether.
+
+Write the mechanism of acid dehydration of ethanol to yield ethene.
+
+How are the following conversions carried out?
+(i) Propene -> Propan-2-ol.
+(ii) Benzyl chloride -> Benzyl alcohol.
+(iii) Ethyl magnesium chloride -> Propan-1-ol.
+(iv) Methyl magnesium bromide -> 2-Methylpropan-2-ol.
+
+Name the reagents used in the following reactions:
+(i) Oxidation of a primary alcohol to carboxylic acid.
+(ii) Oxidation of a primary alcohol to aldehyde.
+(iii) Bromination of phenol to 2,4,6-tribromophenol.
+(iv) Benzyl alcohol to benzoic acid.
+(v) Dehydration of propan-2-ol to propene.
+(vi) Butan-2-one to butan-2-ol.
+
+Give reason for the higher boiling point of ethanol in comparison to methoxymethane.
+
+Write the names of reagents and equations for the preparation of the following ethers by Williamson's synthesis:
+(i) 1-Propoxypropane 
+(ii) Ethoxybenzene
+(iii) 2-Methoxy-2-methylpropane 
+(iv) 1-Methoxyethane
+
+Illustrate with examples the limitations of Williamson synthesis for the preparation of certain types of ethers.
+
+How is 1-propoxypropane synthesised from propan-1-ol? Write mechanism of this reaction.
+
+Preparation of ethers by acid dehydration of secondary or tertiary alcohols is not a suitable method. Give reason.
+
+Write the equation of the reaction of hydrogen iodide with:
+(i) 1-propoxypropane 
+(ii) methoxybenzene 
+(iii) benzyl ethyl ether
+
+Explain the fact that in aryl alkyl ethers 
+(i) the alkoxy group activates the benzene ring towards electrophilic substitution 
+(ii) it directs the incoming substituents to ortho and para positions in benzene ring.
+
+Write the mechanism of the reaction of HI with methoxymethane.
+
+Write equations of the following reactions:
+(i) Friedel-Crafts reaction - alkylation of anisole.
+(ii) Nitration of anisole.
+(iii) Bromination of anisole in ethanoic acid medium.
+(iv) Friedel-Craft's acetylation of anisole

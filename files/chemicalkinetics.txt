@@ -1,0 +1,138 @@
+
+From the rate expression for the following reactions, determine their order of reaction and the dimensions of the rate constants.
+(i) 3NO(g) -> N2O (g) Rate = k[NO]^2
+(ii) H2O2 (aq) + 3I- (aq) + 2H+ -> 2H2O (l) + 3I− Rate = k[H2O2][I-]
+(iii) CH3CHO (g) -> CH4 (g) + CO(g) Rate = k [CH3CHO]^3/2
+(iv) C2H5Cl (g) -> C2H4 (g) + HCl (g) Rate = k [C2H5Cl]
+
+For the reaction:
+2A + B -> A2B
+the rate = k[A][B]^2 with k = 2.0 x 10^-6 mol^-2 L^2 s^-1. Calculate the initial rate of the reaction when [A] = 0.1 mol L^-1, [B] = 0.2 mol L^-1. Calculate the rate of reaction after [A] is reduced to 0.06 mol L^-1.
+
+The decomposition of NH3 on platinum surface is zero order reaction. What are the rates of production of N2 and H2 if k = 2.5 x 10^-4 mol^-1 L s^-1?
+
+The decomposition of dimethyl ether leads to the formation of CH4, H2 and CO and the reaction rate is given by Rate = k [CH3OCH3]^3/2
+The rate of reaction is followed by increase in pressure in a closed vessel, so the rate can also be expressed in terms of the partial pressure of dimethyl ether, i.e., Rate = k(p_CH3OCH3)^3/2
+If the pressure is measured in bar and time in minutes, then what are the units of rate and rate constants?
+
+Mention the factors that affect the rate of a chemical reaction.
+
+A reaction is second order with respect to a reactant. How is the rate of reaction affected if the concentration of the reactant is
+(i) doubled (ii) reduced to half ?
+
+What is the effect of temperature on the rate constant of a reaction? How can this effect of temperature on rate constant be represented quantitatively?
+
+In a pseudo first order reaction in water, the following results were obtained:
+ ____________________________________________________________________
+|             |            |              |             |            |
+| t/s         |      0     |      30      |      60     |     90     |  
+| A/ mol L^-1 |     0.55   |     0.31     |     0.17    |   0.085    |
+|_____________|____________|______________|_____________|____________|
+Calculate the average rate of reaction between the time interval 30 to 60 seconds.
+
+A reaction is first order in A and second order in B.
+(i) Write the differential rate equation.
+(ii) How is the rate affected on increasing the concentration of B three times?
+(iii) How is the rate affected when the concentrations of both A and B are doubled?
+
+In a reaction between A and B, the initial rate of reaction was measured for different initial concentrations of A and B as given below:
+ __________________________________________________________________
+|                  |                |               |              |
+| A/ mol L^-1      |      0.20      |      0.20     |      0.40    |  
+| B/ mol L^-1      |      0.35      |      0.10     |      0.05    |
+| r/ mol L^-1 s^-1 |   5.07 x 10^-5 |  5.07 x 10^-5 | 1.43 x 10^-4 |
+|__________________|________________|_______________|______________|
+What is the order of the reaction with respect to A and B?
+
+The following results have been obtained during the kinetic studies of the reaction: 2A + B -> C + D
+ ____________________________________________________________________________________________________
+|              |                 |                 |                                                 |
+|  Experiment  |  [A]/ mol L^-1  |  [B]/ mol L^-1  | Initial rate of formation of D/ mol L^-1 min^-1 |
+|      I       |        0.1      |        0.1      |                   6.0 x 10^-3                   |
+|      II      |        0.3      |        0.2      |                   7.2 x 10^-2                   |
+|      III     |        0.3      |        0.4      |                   2.88 x 10^-1                  |
+|      IV      |        0.4      |        0.1      |                   2.40 x 10^-2                  |
+|______________|_________________|_________________|_________________________________________________|
+Determine the rate law and the rate constant for the reaction
+
+The reaction between A and B is first order with respect to A and zero order with respect to B. Fill in the blanks in the following table:
+ ___________________________________________________________________________________
+|              |                 |                 |                                |
+|  Experiment  |  [A]/ mol L^-1  |  [B]/ mol L^-1  | Initial rate / mol L^-1 min^-1 |
+|      I       |        0.1      |        0.1      |         2.0 x 10^-3            |
+|      II      |         -       |        0.2      |         4.0 x 10^-2            |
+|      III     |        0.4      |        0.4      |              -                 |
+|      IV      |         -       |        0.2      |         2.0 x 10^-2            |
+|______________|_________________|_________________|________________________________|
+
+Calculate the half-life of a first order reaction from their rate constants given below:
+(i) 200 s^-1 (ii) 2 min^-1 (iii) 4 years^-1
+
+The half-life for radioactive decay of C-14 is 5730 years. An archaeological artifact containing wood had only 80% of the C-14 found in a living tree. Estimate the age of the sample.
+
+The experimental data for decomposition of N2O5 [2N2O5 -> 4NO2 + O2] in gas phase at 318K are given below:
+ __________________________________________________________________________________________
+|                         |        |      |      |      |      |      |      |      |      |
+|           t/s           |    0   |  400 | 800  | 1200 | 1600 | 2000 | 2400 | 2800 | 3200 |
+| 10^2 x [N2O5]/ mol L^-1 |  1.63  | 1.36 | 1.14 | 0.93 | 0.78 | 0.64 | 0.53 | 0.43 | 0.35 |
+|_________________________|________|______|______|______|______|______|______|______|______|
+(i) Plot [N2O5] against t.
+(ii) Find the half-life period for the reaction.
+(iii) Draw a graph between log[N2O5] and t.
+(iv) What is the rate law ?
+(v) Calculate the rate constant.
+(vi) Calculate the half-life period from k and compare it with (ii).
+
+The rate constant for a first order reaction is 60 s-1. How much time will it take to reduce the initial concentration of the reactant to its 1/16th value?
+
+During nuclear explosion, one of the products is Sr with half-life of 28.1 years. If 1 microgram of Sr was absorbed in the bones of a newly born baby instead of calcium, how much of it will remain after 10 years and 60 years if it is not lost metabolically.
+
+For a first order reaction, show that time required for 99% completion is twice the time required for the completion of 90% of reaction.
+
+A first order reaction takes 40 min for 30% decomposition. Calculate the half life.
+
+For the decomposition of azoisopropane to hexane and nitrogen at 543 K, the following data are obtained.
+ _________________________
+|          |              |
+|  t (sec) | P (mm of Hg) |
+|    0     |      35      |
+|   360    |      54      |
+|   720    |      63      |
+|__________|______________|
+Calculate the rate constant.
+
+The following data were obtained during the first order thermal decomposition of SO2Cl2 at a constant volume.
+ _________________________________________________
+|            |             |                      |
+| Experiment | Time / s^-1 | Total pressure / atm |
+|     1      |      0      |         0.5          |
+|     2      |     100     |         0.6          |
+|____________|_____________|______________________|
+Calculate the rate of the reaction when total pressure is 0.65 atm
+
+The rate constant for the decomposition of N2O5 at various temperatures is given below:
+ _____________________________________________________________
+|                |        |        |        |        |        |
+|  T / degrees C |    0   |   20   |   40   |   60   |   80   |
+|  10^5 x k/s-1  | 0.0787 |  1.70  |  25.7  |  178   |  2140  |
+|________________|________|________|________|________|________|
+
+The rate constant for the decomposition of hydrocarbons is 2.418 x 10^-5 s^-1 at 546 K. If the energy of activation is 179.9 kJ/mol, what will be the value of pre-exponential factor.
+
+Consider a certain reaction A -> Products with k = 2.0 x 10^-2 s^-1. Calculate the concentration of A remaining after 100 s if the initial concentration of A is 1.0 mol/L
+
+Sucrose decomposes in acid solution into glucose and fructose according to the first order rate law, with a half life of 3.00 hours. What fraction of sample of sucrose remains after 8 hours ?
+
+The decomposition of hydrocarbon follows the equation k = (4.5 x 10^11 s^-1) e^(-28000 K/T )
+Calculate Ea
+
+The rate constant for the first order decomposition of H2O2 is given by the following equation:
+log k = 14.34 - 1.25 x 10^4 K/T. 
+Calculate Ea for this reaction and at what temperature will its half-period be 256 minutes?
+
+
+The decomposition of A into product has value of k as 4.5 x 10^3 s^-1 at 10 degrees C and energy of activation 60 kJ mol^-1. At what temperature would k be 1.5 x 10^4 s^-1?
+
+The time required for 10% completion of a first order reaction at 298K is equal to that required for its 25% completion at 308K. If the value of A is 4 x 10^10 s^-1. Calculate k at 318K and Ea.
+
+The rate of a reaction quadruples when the temperature changes from 293 K to 313 K. Calculate the energy of activation of the reaction assuming that it does not change with temperature.

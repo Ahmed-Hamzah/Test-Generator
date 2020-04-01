@@ -1,0 +1,102 @@
+
+Write IUPAC names of the following compounds and classify them into primary, secondary and tertiary amines.
+(i) (CH3)2CHNH2
+(ii) CH3(CH2)2NH2
+(iii) CH3NHCH(CH3)2
+(iv) (CH3)3CNH2
+(v) C6H5NHCH3
+(vi) (CH3CH2)2NCH3
+(vii) m-BrC6H4NH2
+
+Give one chemical test to distinguish between the following pairs of compounds.
+(i) Methylamine and dimethylamine 
+(ii) Secondary and tertiary amines
+(iii) Ethylamine and aniline 
+(iv) Aniline and benzylamine
+(v) Aniline and N-methylaniline.
+
+Account for the following:
+(i) pKb of aniline is more than that of methylamine.
+(ii) Ethylamine is soluble in water whereas aniline is not.
+(iii) Methylamine in water reacts with ferric chloride to precipitate hydrated ferric oxide.
+(iv) Although amino group is o- and p- directing in aromatic electrophilic substitution reactions, aniline on nitration gives a substantial amount of m-nitroaniline.
+(v) Aniline does not undergo Friedel-Crafts reaction.
+(vi) Diazonium salts of aromatic amines are more stable than those of aliphatic amines.
+(vii) Gabriel phthalimide synthesis is preferred for synthesising primary amines.
+
+Arrange the following:
+(i) In decreasing order of the pKb values: 
+C2H5NH2, C6H5NHCH3, (C2H5)2NH and C6H5NH2
+(ii) In increasing order of basic strength: 
+C6H5NH2, C6H5N(CH3)2, (C2H5)2NH and CH3NH2
+(iii) In increasing order of basic strength: 
+      (a) Aniline, p-nitroaniline and p-toluidine
+      (b) C6H5NH2, C6H5NHCH3, C6H5CH2NH2.
+(iv) In decreasing order of basic strength in gas phase:
+C2H5NH2, (C2H5)2NH, (C2H5)3N and NH3
+(v) In increasing order of boiling point:
+C2H5OH, (CH3)2NH, C2H5NH2
+(vi) In increasing order of solubility in water:
+C6H5NH2, (C2H5)2NH, C2H5NH2.
+
+How will you convert:
+(i) Ethanoic acid into methanamine
+(ii) Hexanenitrile into 1-aminopentane
+(iii) Methanol to ethanoic acid
+(iv) Ethanamine into methanamine
+(v) Ethanoic acid into propanoic acid
+(vi) Methanamine into ethanamine
+(vii) Nitromethane into dimethylamine
+(viii) Propanoic acid into ethanoic acid?
+
+Describe a method for the identification of primary, secondary and tertiary amines.
+Also write chemical equations of the reactions involved.
+
+Write short notes on the following:
+(i) Carbylamine reaction 
+(ii) Diazotisation
+(iii) Hofmann's bromamide reaction 
+(iv) Coupling reaction
+(v) Ammonolysis 
+(vi) Acetylation
+(vii) Gabriel phthalimide synthesis.
+
+Accomplish the following conversions:
+(i) Nitrobenzene to benzoic acid
+(ii) Benzene to m-bromophenol
+(iii) Benzoic acid to aniline
+(iv) Aniline to 2,4,6-tribromofluorobenzene
+(v) Benzyl chloride to 2-phenylethanamine
+(vi) Chlorobenzene to p-chloroaniline
+(vii) Aniline to p-bromoaniline
+(viii) Benzamide to toluene
+(ix) Aniline to benzyl alcohol.
+
+Give the structures of A, B and C in the following reactions:
+(i) CH3CH2I + (NaCN) -> A + (OH-) -> B + (NaOH + Br2) -> C
+(ii) C6H5N2Cl + (CuCN) -> A + (H2O/H+) -> B + (NH3) -> C
+(iii) CH3CH2Br + (KCN) -> A + (LiALH4) -> B + (HNO2 at 0 degrees C) -> C
+(iv) C6H5NO2 + (Fe/HCl) -> A + (NaNO2 + HCl at 273K) -> B + (H2O/H+) -> C
+(v) CH3COOH + (NH3) -> A + (NaOBr) -> B (NaNO2/HCl) -> C
+(vi) C6H5NO2 + (Fe/HCl) -> A + (HNO2 at 273K) -> B + (C6H50H) -> C
+
+An aromatic compound 'A' on treatment with aqueous ammonia and heating forms compound 'B' which on heating with Br2 and KOH forms a compound 'C' of molecular formula C6H7N. Write the structures and IUPAC names of compounds A, B and C.
+
+Why cannot aromatic primary amines be prepared by Gabriel phthalimide
+synthesis?
+
+Write the reactions of (i) aromatic and (ii) aliphatic primary amines with nitrousacid.
+
+Complete the following reactions:
+(i) C6H5NH2 + CHCl3 + alc. KOH ->
+(ii) C6H5N2Cl + H3PO2 + H2O ->
+(iii) C6H5NH2 + conc. H2SO4 ->
+(iv) C6H5N2Cl + C2H5OH ->
+(v) C6H5NH2 + Br2 (aq) ->
+(vi) C6H5NH2 (CH3CO)2O ->
+(vii) C6H5N2Cl + (HBF4, NaNO2/Cu) ->
+
+Give plausible explanation for each of the following:
+(i) Why are amines less acidic than alcohols of comparable molecular masses?
+(ii) Why do primary amines have higher boiling point than tertiary amines?
+(iii) Why are aliphatic amines stronger bases than aromatic amines?
