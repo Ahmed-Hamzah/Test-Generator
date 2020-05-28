@@ -2,7 +2,23 @@
 #include "headerFiles/classes.hpp"
 
 //vector that holds the names of each of the text files
-std::vector<std::string>chapters = {"solutions", "electrochemistry", "chemicalkinetics", "surfacechemistry", "generalprinciplesandprocessesofisolationofelements", "pblock", "dandfblock", "coordinationcompounds" , "haloalkanesandhaloarenes", "alcoholsphenolsandethers", "aldehydesketonesandcarboxylicacids", "amines", "biomolecules","polymers", "chemistryineverydaylife"};
+std::vector<std::string>chapters = {
+    "solutions", 
+    "electrochemistry", 
+    "chemicalkinetics", 
+    "surfacechemistry", 
+    "generalprinciplesandprocessesofisolationofelements", 
+    "pblock", 
+    "dandfblock", 
+    "coordinationcompounds" , 
+    "haloalkanesandhaloarenes", 
+    "alcoholsphenolsandethers", 
+    "aldehydesketonesandcarboxylicacids", 
+    "amines", 
+    "biomolecules",
+    "polymers", 
+    "chemistryineverydaylife"
+};
 
 // vector that holds the number of questions in each chapter
 std::vector<int>questions;//{40, 9, 31, 27, 27, 22, 29};
