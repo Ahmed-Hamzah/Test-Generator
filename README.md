@@ -9,5 +9,3 @@ Takes in random questions from prewritten text files and generates tests.
 - Start has a function 'setThingsUp' that stores the number of questions in each the files in a vector 'questions'. Member funtion 'mainMenu' takes in the chapter number which is passed into Generator.
 
 'headerFiles' contains 'header.hpp' and 'classes.hpp" which contain all the necessary libraries and header files.
-
-Contact me at ahmedhamzah2002@gmail.com if you'd like to share your thoughts.
